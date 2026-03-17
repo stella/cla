@@ -1,7 +1,12 @@
 # Stella - Contributor License Agreement
 
 Thank you for your interest in contributing to open source software
-projects ("Projects") made available by Stella AI s.r.o. ("Stella").
+projects ("Projects") made available by stella labs, s.r.o., a
+limited liability company established under the laws of the Czech
+Republic, with its registered office at Nad Porubkou 2355, Poruba,
+708 00 Ostrava, Czech Republic, Company ID (IČO): 24632872,
+registered in the Commercial Register maintained by the Regional
+Court in Ostrava, Section C, File No. 103233 ("Stella").
 This Contributor License Agreement ("Agreement") sets out the terms
 governing any source code, object code, bug fixes, configuration
 changes, tools, specifications, documentation, data, materials,
